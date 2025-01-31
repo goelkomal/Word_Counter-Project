@@ -14,7 +14,7 @@ def count_words(text):
 
 def main():
     print("Welcome to the Word Count Program!")
-    
+    # Word Count Program for Beginners
     while True:
         try:
             # Get user input
